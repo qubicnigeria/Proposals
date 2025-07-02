@@ -19,7 +19,7 @@ We are requesting **$6,000** to position Qubic as a **“Wagmi” sponsor** of t
 
 Ideal to grow our **African community** and generate **qualified leads**.
 
-We've spent the past year preparing through university/club meetings. This event will also **kickstart a future hackathon**. Nigeria holds ≈ **3% of global blockchain developer talent**.
+We've spent the past year preparing through university/club meetings. This event will also be an opportunity to also **kickstart a future hackathon**. Nigeria holds ≈ **3% of global blockchain developer talent**.
 
 We opted for the **most affordable package** to demonstrate **high impact with low cost**.
 
