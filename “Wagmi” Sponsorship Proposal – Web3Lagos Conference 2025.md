@@ -1,6 +1,6 @@
 # CCF Proposal – Web3Lagos Conference 2025
 
-**Request:** Approve $6,000 – approx. **4.5b QUBIC** (USD rate: 0.00000135/bln)
+**Request:** Approve $6,000 – approx. **4.7b QUBIC** (USD rate: 0.00000128/bln)
 
 **Lead:** XXODUX, EliteBreedss – Qubic Nigeria Community Leaders  
 **Wallet:** `VJFQSSLNJMHQRDJTUPVCIWAFSTHCOTCLEQVRNOECFGBOAUOQMEXMLLQBCTGK`  
@@ -19,7 +19,7 @@ We are requesting **$6,000** to position Qubic as a **“Wagmi” sponsor** of t
 
 Ideal to grow our **African community** and generate **qualified leads**.
 
-We've spent the past year preparing through university/club meetings. This event will also be an opportunity to also **kickstart a future hackathon**. Nigeria holds ≈ **3% of global blockchain developer talent**.
+We've spent the past year preparing through university/club meetings. This event will also be an opportunity to **kickstart a future hackathon**. Nigeria holds ≈ **3% of global blockchain developer talent**.
 
 We opted for the **most affordable package** to demonstrate **high impact with low cost**.
 
@@ -111,5 +111,5 @@ Includes:
 ## 🗳️ Voting Options / Decision
 
 - ❌ **Reject** the request  
-- ✅ **Approve** “Wagmi” Sponsorship – **$6,000 budget (~4.5b QUBIC)**
+- ✅ **Approve** “Wagmi” Sponsorship – **$6,000 budget (~4.7b QUBIC)**
 
