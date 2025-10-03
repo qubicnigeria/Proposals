@@ -86,11 +86,12 @@ This positions Qubic at the heart of a **rising Nigerian tech hub**, ensuring vi
 
 | Item                                                               | Cost (USD) |
 | ------------------------------------------------------------------ | ---------- |
-| Workshop (venue, logistics, dev kits)                              | $2,000     |
-| Conference Sponsorship (branding, naming rights, hackathon bounty) | $4,000     |
-| Demo Day & Rewards (top 3 teams)                                   | $1,500     |
-| Media Coverage & Promotion                                         | $1,000     |
-| Merchandise & Print Materials                                      | $1,000     |
+| Workshop (venue, logistics, dev kits)                              | $1,500     |
+| Conference Sponsorship (branding, naming rights, hackathon bounty) | $2,000     |
+| Demo Day & Rewards (top 3 teams)                                   | $1,000     |
+| Media Coverage & Promotion                                         | $1,500     |
+| Merchandise & Print Materials                                      | $1,500     |
+| Team (trave, accomodations).                                       | $2,000     |
 | **Total**                                                          | **$9,500** |
 
 ---
