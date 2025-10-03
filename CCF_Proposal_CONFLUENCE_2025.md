@@ -6,7 +6,7 @@
   Event Info: [Blockchain Lautech](https://blockchainlautech.club/)  
   - Developer Workshop: **18th October 2025**  
   - Conference: **7th–8th November 2025**
-- **Funding Request:** 5.45B QUBIC @ $1,750/billion = **$9,500 USDT**  
+- **Funding Request:** 4.98B QUBIC @ $1,980/billion = **$9,500 USDT**  
 - **Wallet:** `FOIXRCUEURTEYDPXXVFCORBVFFZALQHZAZAZVGLGPDQFPTIXTIGWJIFDDZXI`  
 
 **Available Options:**
@@ -14,7 +14,7 @@
 | Option | Description                            |
 | ------ | -------------------------------------- |
 | 0      | No, I don’t want                       |
-| 1      | Yes, approve the budget of 5.45B QUBIC |
+| 1      | Yes, approve the budget of 4.98B QUBIC |
 
 **Use of Funds:**  
 All funds will go towards event hosting, logistics, developer onboarding, and media/branding exposure. No internal salaries. Any unspent or excess funds will be returned to the CCF.
@@ -26,7 +26,7 @@ Qubic Nigeria (XXODUX, EliteBreedss – Qubic Nigeria Community Leaders) in part
 
 ## TL;DR
 
-Requesting **5.45B QUBIC (~$9.5K)** to make Qubic the **Main Sponsor and Exclusive Developer Track Partner** of CONFLUENCE 2025 — a 2-day blockchain summit at The Assembly City, LAUTECH, preceded by a hands-on developer workshop.  
+Requesting **4.98B QUBIC (~$9.5K)** to make Qubic the **Main Sponsor and Exclusive Developer Track Partner** of CONFLUENCE 2025 — a 2-day blockchain summit at The Assembly City, LAUTECH, preceded by a hands-on developer workshop.  
 
 This positions Qubic at the heart of a **rising Nigerian tech hub**, ensuring visibility, developer onboarding, and early ecosystem adoption.
 
